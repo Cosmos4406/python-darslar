@@ -1,5 +1,5 @@
 """
-7/11/2020
+7/11/20202
 
 Dasturlash asoslari
 
